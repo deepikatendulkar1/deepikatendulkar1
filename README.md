@@ -65,13 +65,6 @@ Spring Boot + Angular + MySQL + Kubernetes CI/CD | Deployed 3-node cluster
 
 ---
 
-## 📈 GitHub Stats
-
-![Deepika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepikatendulkar1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepikatendulkar1&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-tendulkar-a88bb8166/)
